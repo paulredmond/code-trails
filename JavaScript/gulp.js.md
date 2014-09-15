@@ -4,4 +4,5 @@ Gulp.js
 
 Getting Started
 ---------------
+* [Official Docs](https://github.com/gulpjs/gulp/tree/master/docs)
 * [Learning Gulp - Intro do Gulp](http://hmphry.com/gulp/)
