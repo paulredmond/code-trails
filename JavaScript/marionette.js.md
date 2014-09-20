@@ -7,6 +7,11 @@ Official Links
 * [Marionette.js Homepage](http://marionettejs.com/)
 * [Annotated Source Code](http://marionettejs.com/annotated-src/backbone.marionette)
 * [Docs](http://marionettejs.com/docs/current)
+* [Github Repo](https://github.com/marionettejs/backbone.marionette)
+
+Code
+----
+* BBCloneMail: A Backbone.Marionette Reference Application ([code](https://github.com/derickbailey/bbclonemail), [app](http://bbclonemail.heroku.com/))
 
 Books
 -----
