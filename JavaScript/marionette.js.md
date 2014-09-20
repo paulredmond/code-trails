@@ -1,5 +1,7 @@
-Marionette JS
+Marionette.js
 =============
+
+Reference notes and helpful resources for learning Marionette.js
 
 Official Links
 --------------
